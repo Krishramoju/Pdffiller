@@ -1,0 +1,7 @@
+{
+    "Programming": ["Python", "Java", "C++", "JavaScript", "SQL", "R", "Go"],
+    "Data": ["SQL", "NoSQL", "Spark", "Pandas", "Tableau", "PowerBI", "Excel"],
+    "ML/AI": ["Machine Learning", "Deep Learning", "TensorFlow", "PyTorch", "NLP"],
+    "DevOps": ["Docker", "Kubernetes", "AWS", "Azure", "CI/CD", "Terraform"],
+    "Soft Skills": ["Leadership", "Communication", "Teamwork", "Problem Solving"]
+}
